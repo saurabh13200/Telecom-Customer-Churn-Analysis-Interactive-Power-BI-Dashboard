@@ -1,10 +1,3 @@
-# Telecom-Customer-Churn-Analysis-Interactive-Power-BI-Dashboard
-Got it ✅
-Since your **`WA_Fn-UseC_-Telco-Customer-Churn.csv`** dataset is already uploaded in the repo, I’ll update the **README.md** so it points directly to your CSV file in the repository instead of an external link.
-
-Here’s the updated **README.md**:
-
----
 
 # Telecom Customer Churn Analysis – Interactive Power BI Dashboard
 
@@ -78,7 +71,5 @@ This dashboard empowers telecom businesses to:
 * Data Visualization & Storytelling
 * Interactive Dashboard Design
 
----
 
-Do you want me to also **add a “How to Use This Dashboard” section** in your README so recruiters and hiring managers can test it easily without asking you? That makes your repo more professional.
 
