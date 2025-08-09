@@ -1,75 +1,46 @@
 
-# Telecom Customer Churn Analysis – Interactive Power BI Dashboard
+# 📊 Telecom Customer Churn Analysis – Interactive Power BI Dashboard
 
-## 📊 Project Overview
+This project analyzes **customer churn patterns** for a telecom company using **Power BI**.
+It provides actionable insights into **churn rates, revenue trends, and customer segments**, enabling data-driven retention strategies.
 
-This project is an **interactive Power BI dashboard** built to analyze **telecom customer churn** using the real-world Telco Customer Churn dataset. It enables business teams to identify high-risk customer segments, understand churn patterns, and make data-driven retention strategies.
+🔗 **GitHub Repository:** [View Project](https://github.com/saurabh13200/Telecom-Customer-Churn-Analysis-Interactive-Power-BI-Dashboard)
+📂 **Dataset:** `WA_Fn-UseC_-Telco-Customer-Churn.csv` (included in repository)
 
 ---
 
 ## 🛠 Features
 
-* **Data Cleaning & Transformation** using **Power Query** (null handling, type corrections, duplicates removal).
-* **Custom KPIs with DAX** for Churn Rate, Total Revenue, and Segmentation metrics.
-* **Customer Segmentation** by contract type, tenure, monthly charges, and support services.
-* **Interactive Filters & Slicers** for Internet Service, Contract Type, and Churn Status.
-* **Drill-through** for detailed customer view.
-* **Custom Tooltips** showing Payment Method, Device Protection, and Tech Support.
+* **3 Interactive Dashboard Pages:**
+
+  1. **Executive Overview** – Key KPIs, churn trends, and high-level metrics.
+  2. **Revenue & Subscription Insights** – Revenue group patterns and churn correlations.
+  3. **Customer Segmentation** – Demographic and service-based churn analysis.
+* **Data Cleaning & Transformation** in Power Query.
+* **DAX Measures** for KPIs like churn rate, total revenue, and customer grouping.
+* **Interactivity:** Slicers, drill-throughs, and custom tooltips for deeper exploration.
 
 ---
 
-## 📷 Dashboard Pages
+## 📷 Dashboard Previews
 
-### 1️⃣ Executive Overview
+### **1. Executive Overview**
 
 ![Executive Overview](https://github.com/saurabh13200/Telecom-Customer-Churn-Analysis-Interactive-Power-BI-Dashboard/blob/main/Executive.png)
 
-* KPIs & churn trends
-* Churn by tenure & contract type
-* Revenue distribution
-
-### 2️⃣ Customer Segmentation
+### **2. Customer Segmentation**
 
 ![Customer Segmentation](https://github.com/saurabh13200/Telecom-Customer-Churn-Analysis-Interactive-Power-BI-Dashboard/blob/main/Customer%20segmentation.png)
 
-* Churn by customer type
-* Churn by support services
-* Distribution across contract groups
-
-### 3️⃣ Revenue & Subscription Trends
+### **3. Revenue & Subscription Trends**
 
 ![Trends](https://github.com/saurabh13200/Telecom-Customer-Churn-Analysis-Interactive-Power-BI-Dashboard/blob/main/Trends.png)
 
-* Revenue groups vs churn
-* Spending behavior analysis
-* Churn by total charges group
-
 ---
 
-## 📂 Dataset
+## 📌 Business Impact
 
-The dataset used for this project is available in the repository:
-[WA\_Fn-UseC\_-Telco-Customer-Churn.csv](https://github.com/saurabh13200/Telecom-Customer-Churn-Analysis-Interactive-Power-BI-Dashboard/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv)
-
----
-
-## 📈 Business Impact
-
-This dashboard empowers telecom businesses to:
-
-* Identify high-risk churn groups.
-* Target retention campaigns effectively.
-* Optimize pricing and service packages.
+This dashboard enables quick identification of **high churn-risk customer segments**.
+For example, customers on **month-to-month contracts** with **higher monthly charges** show significantly higher churn rates—helping design targeted retention campaigns.
 
 ---
-
-## 📚 Skills Demonstrated
-
-* Power Query (ETL)
-* DAX for KPIs & Calculated Columns
-* Data Modeling & Segmentation
-* Data Visualization & Storytelling
-* Interactive Dashboard Design
-
-
-
